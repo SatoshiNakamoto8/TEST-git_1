@@ -1,0 +1,6 @@
+const age = 20
+if (age >= 18) {
+	console.log('Вы совершенрлетний')
+} else {
+	console.log('Вы не совершеннолетний')
+}
